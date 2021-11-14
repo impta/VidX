@@ -9,7 +9,6 @@ asyncio
 requests
 aiohttp
 aiofiles
-youtube_dl
 youtube_search_python==1.4.5
 youtube_search
 python-dotenv
